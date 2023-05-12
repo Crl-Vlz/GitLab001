@@ -3,4 +3,6 @@
 
 ---
 
-First lab activity
+Ionic activities
+
+Probably going to be done using Vue
