@@ -89,10 +89,12 @@ export default {
 
 <style scoped>
 ion-col>div {
-  background-color: #333;
-  border: solid 1px #ddd;
+  background-color: #00933b;
   padding: 10px;
   display: flex;
   justify-content: center;
+  border-style: solid;
+  border-width: 0.1em;
+  border-color: #fdd923;;
 }
 </style>
