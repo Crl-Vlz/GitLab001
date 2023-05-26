@@ -18,6 +18,7 @@ INJECTED from C:\Users\crlvl\Documents\Moviles\GitLab001\project\android\app\src
 MERGED from [:capacitor-app] C:\Users\crlvl\Documents\Moviles\GitLab001\project\node_modules\@capacitor\app\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [:capacitor-haptics] C:\Users\crlvl\Documents\Moviles\GitLab001\project\node_modules\@capacitor\haptics\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:capacitor-keyboard] C:\Users\crlvl\Documents\Moviles\GitLab001\project\node_modules\@capacitor\keyboard\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:capacitor-splash-screen] C:\Users\crlvl\Documents\Moviles\GitLab001\project\node_modules\@capacitor\splash-screen\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [:capacitor-status-bar] C:\Users\crlvl\Documents\Moviles\GitLab001\project\node_modules\@capacitor\status-bar\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [:capacitor-android] C:\Users\crlvl\Documents\Moviles\GitLab001\project\node_modules\@capacitor\android\capacitor\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [:capacitor-cordova-android-plugins] C:\Users\crlvl\Documents\Moviles\GitLab001\project\android\capacitor-cordova-android-plugins\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
@@ -139,6 +140,8 @@ MERGED from [:capacitor-haptics] C:\Users\crlvl\Documents\Moviles\GitLab001\proj
 MERGED from [:capacitor-haptics] C:\Users\crlvl\Documents\Moviles\GitLab001\project\node_modules\@capacitor\haptics\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:capacitor-keyboard] C:\Users\crlvl\Documents\Moviles\GitLab001\project\node_modules\@capacitor\keyboard\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:capacitor-keyboard] C:\Users\crlvl\Documents\Moviles\GitLab001\project\node_modules\@capacitor\keyboard\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:capacitor-splash-screen] C:\Users\crlvl\Documents\Moviles\GitLab001\project\node_modules\@capacitor\splash-screen\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:capacitor-splash-screen] C:\Users\crlvl\Documents\Moviles\GitLab001\project\node_modules\@capacitor\splash-screen\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:capacitor-status-bar] C:\Users\crlvl\Documents\Moviles\GitLab001\project\node_modules\@capacitor\status-bar\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:capacitor-status-bar] C:\Users\crlvl\Documents\Moviles\GitLab001\project\node_modules\@capacitor\status-bar\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:capacitor-android] C:\Users\crlvl\Documents\Moviles\GitLab001\project\node_modules\@capacitor\android\capacitor\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44

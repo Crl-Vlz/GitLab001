@@ -95,6 +95,12 @@ ion-col>div {
   justify-content: center;
   border-style: solid;
   border-width: 0.1em;
-  border-color: #fdd923;;
+  border-color: #fdd923;
+  width: 30vw;
+  max-width: 30vw;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow-wrap: break-word;
 }
 </style>
